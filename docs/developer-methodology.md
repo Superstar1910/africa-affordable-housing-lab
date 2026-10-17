@@ -1,0 +1,7 @@
+# Developer feasibility methodology v0.1
+
+The model combines unit count, built area, construction unit cost, land and infrastructure to derive hard costs. Professional fees and contingency are applied to specified cost bases; an illustrative financing allowance is applied to total base cost. Grants and subsidies reduce net project cost, subject to actual availability and eligibility. Required sales revenue is net cost multiplied by one plus a user-selected developer markup. The difference between required revenue and the revenue achievable at a user-selected affordable selling price is the **viability funding gap**.
+
+The margin is a cost markup, **not** an internal rate of return. The debt-service calculation assumes a fully amortising loan; real development loans are generally drawdown-based and may be interest-only before stabilisation. The tool does not calculate investor IRR, DSCR, absorption, taxes, cash-flow timing, permitting risk, loan covenants, or risk-adjusted capital costs. A positive result is not evidence of bankability. Inputs are illustrative, not independently verified market data.
+
+The next research stage should connect household mortgage capacity to selling-price ceilings, then test multi-period project cash flows, sensitivity analysis, land value, guarantee structures and concessional capital without double-counting subsidies.
